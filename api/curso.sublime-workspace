@@ -1,0 +1,933 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valu",
+				"value_1"
+			],
+			[
+				"gete",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"getele",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"read",
+				"readyState\t XMLHttpRequest"
+			],
+			[
+				"getElementsBy",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"req",
+				"requestURL"
+			],
+			[
+				"tr",
+				"tr\ttext-replace"
+			],
+			[
+				"class",
+				"class\tclass …"
+			],
+			[
+				"remo",
+				"removeItem\t( key: DOMString ): void Storage"
+			],
+			[
+				"Contro",
+				"ControllerPais"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ma",
+				"max\tAttr"
+			],
+			[
+				"min",
+				"min\tAttr"
+			],
+			[
+				"ex",
+				"expr2"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"exp",
+				"expr1"
+			],
+			[
+				"exr",
+				"expr2"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"lin",
+				"linealex"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"con",
+				"conex"
+			],
+			[
+				"db",
+				"db_name"
+			],
+			[
+				"dbh",
+				"db_host"
+			],
+			[
+				"db_",
+				"db_host"
+			],
+			[
+				"appen",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"sele",
+				"selectPaises"
+			],
+			[
+				"se",
+				"send\t(data) XMLHttpRequest"
+			],
+			[
+				"ro",
+				"route"
+			],
+			[
+				"call",
+				"callBack"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"S",
+				"StringBuffer"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"btn",
+				"btnPause"
+			],
+			[
+				"getM",
+				"getMonth\t(): int Date"
+			],
+			[
+				"getD",
+				"getDay\t(): int Date"
+			],
+			[
+				"writ",
+				"write\t( text_..: DOMString ): void Document"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"ps",
+				"pswd"
+			],
+			[
+				"pswd",
+				"pswd"
+			],
+			[
+				"l",
+				"length\t: int String"
+			],
+			[
+				"else",
+				"else_if"
+			],
+			[
+				"psw",
+				"pswd2"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"getEl",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"vali",
+				"validarTerminos"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"label",
+				"label-radio"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"aling",
+				"align-self"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"responset",
+				"responseText\t XMLHttpRequest"
+			],
+			[
+				"petici",
+				"peticion"
+			],
+			[
+				"respo",
+				"responseText\t XMLHttpRequest"
+			],
+			[
+				"petic",
+				"peticion"
+			],
+			[
+				"conten",
+				"contenidos"
+			],
+			[
+				"sta",
+				"status\t: DOMString Window"
+			],
+			[
+				"peti",
+				"peticion"
+			],
+			[
+				"est",
+				"estadosPosibles"
+			],
+			[
+				"tiem",
+				"tiempoInicial"
+			],
+			[
+				"oncl",
+				"onclick\t: EventHandler Window"
+			],
+			[
+				"num",
+				"numero1"
+			],
+			[
+				"parra",
+				"parrafoMayor"
+			],
+			[
+				"par",
+				"parrafoAnterior"
+			],
+			[
+				"result",
+				"resultado"
+			],
+			[
+				"numer",
+				"numero2"
+			],
+			[
+				"node",
+				"nodeValue\t: DOMString Node"
+			],
+			[
+				"parse",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"getelemets",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Document"
+			],
+			[
+				"parrafo",
+				"parrafo1"
+			],
+			[
+				"parr",
+				"parrafoAnterior1"
+			],
+			[
+				"pri",
+				"primero"
+			],
+			[
+				"createt",
+				"createTextNode\t( data: DOMString ): Text Document"
+			],
+			[
+				"cre",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"borderc",
+				"border-color"
+			],
+			[
+				"tel",
+				"text-align"
+			],
+			[
+				"preve",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"form",
+				"formulario"
+			],
+			[
+				"geteleme",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"enl",
+				"enlaces"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"conta",
+				"contador"
+			],
+			[
+				"geta",
+				"getAttribute\t( name: DOMString ): DOMString Element"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"ap",
+				"apellido_paterno"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"appe",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"documente",
+				"document.getElementById('btn-saludar"
+			],
+			[
+				"mouse",
+				"onmouseenter\t: EventHandler Document"
+			],
+			[
+				"cajas",
+				"cajas[2"
+			],
+			[
+				"repla",
+				"replaceChild\t( node: Node, child: Node ): Node Node"
+			],
+			[
+				"primer",
+				"primeraCaja"
+			],
+			[
+				"ins",
+				"insertBefore\t( node: Node, child: Node ): Node Node"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/code/package.json",
+			"settings":
+			{
+				"buffer_size": 237,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "curso.sublime-project",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"liverelo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"UI",
+				"UI: Select Theme"
+			],
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 452.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"LiveReload",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/code"
+	],
+	"file_history":
+	[
+		"/C/Users/Hernan777/Documents/FIE 6to/Proyecto Integrador/Web/code/prueba",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/introduccion.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/CSS/animaciones.css",
+		"/C/xampp/htdocs/CRUD/app/Controllers/ControllerPais.php",
+		"/C/xampp/htdocs/CRUD/app/Controllers/ControllerCiudad.php",
+		"/C/xampp/htdocs/CRUD/app/Models/City.php",
+		"/C/xampp/htdocs/CRUD/app/Models/Ciudad.php",
+		"/C/xampp/htdocs/CRUD/app/Models/Country.php",
+		"/C/xampp/htdocs/CRUD/app/Models/DB.php",
+		"/C/xampp/htdocs/CRUD/app/Models/Pais.php",
+		"/C/xampp/htdocs/CRUD/app/autoload.php",
+		"/C/xampp/htdocs/CRUD/app/app.php",
+		"/C/xampp/htdocs/CRUD/js/app.js",
+		"/C/xampp/htdocs/CRUD/css/estilos.css",
+		"/C/xampp/htdocs/CRUD/index.html",
+		"/C/Users/Hernan777/Downloads/ajaxphpcrud/js/app.js",
+		"/C/Users/Hernan777/Downloads/ajaxphpcrud/index.html",
+		"/C/xampp/htdocs/examen/pedir.txt",
+		"/C/xampp/htdocs/examen/js/respaldo.js",
+		"/C/xampp/htdocs/examen/js/examen.js",
+		"/C/xampp/htdocs/examen/css/estilos.css",
+		"/C/xampp/htdocs/examen/index.html",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/appE8.js",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/appE7.js",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/appE6.js",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/appE5.js",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/appE4.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/Reproductor/js/reproductor.js",
+		"/C/xampp/htdocs/Tarea/Ejercicio10.html",
+		"/C/xampp/htdocs/Tarea/origendatos.php",
+		"/C/xampp/htdocs/Tarea/appE10.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/DOM/main.js",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/CRUD/js/app.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/animaciones.js",
+		"/C/xampp/htdocs/Examen-hernan/js/Examen1.js",
+		"/C/xampp/htdocs/Examen-hernan/index.html",
+		"/C/xampp/htdocs/Tarea/estilos1.css",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/CSS/practicaSencilla.css",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/Tarea/appE10.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/DOM/index.html",
+		"/C/xampp/htdocs/Ejercicio/data",
+		"/C/xampp/htdocs/Examen/js/examen.js",
+		"/C/xampp/htdocs/Examen/js/Examen1.js",
+		"/C/xampp/htdocs/Examen/index.html",
+		"/C/Users/Hernan777/Downloads/Exam/Examen.html",
+		"/C/Users/Hernan777/AppData/Local/Temp/Rar$DIa15892.33854/npm.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/practicas/Formulario/formulario.js",
+		"/C/xampp/htdocs/Ejercicio/Ejercicio10.html",
+		"/C/xampp/htdocs/Ejercicio/appE10.js",
+		"/C/xampp/htdocs/Ejercicio/leer.php",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/appE2.js",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/appE1.js",
+		"/C/xampp/htdocs/Ejercicio/BD.json",
+		"/C/xampp/htdocs/Ejercicio/estados.php",
+		"/C/xampp/htdocs/Ejercicio/ciudades.php",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/Examen/prueba.html",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/Examen/datos.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/objetos.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/dom.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/efectos.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/filtrar.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/selectores.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/selectores.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/objetos,html.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/metodos arrays.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/hoisting.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/funciones.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/animaciones.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/this.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/this.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/eventos.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/eventos.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/filtrar.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/dom.html",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/CRUD/index.html",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/Ejercicio7.html",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/appE3.js",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/Ejercicio9.html",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/Ejercicio8.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/efectos.html",
+		"/C/Users/Hernan777/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Hernan777/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/CSS/selectores.css",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/introduccion.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Jquery/introduccion.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/localStorage.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/Reproductor/css/estilos.css",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/Reproductor/index.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/prueba.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Photoshop/Curso Diseno Web/javascript/reproductor/estilos.css",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Practicas/Layout/index.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Practicas/Portafolio/css/estilos.css",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Rel.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Not.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/And.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Or.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Logica.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Constante.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Unario.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Temp.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Arit.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Op.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Id.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Analizador.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Break.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Ent.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Tipo.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Arreglo.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Archivo.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Expr.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Acceso.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Instr.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/If.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Else.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/While.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Do.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Est.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/Sec.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/EstElem.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Proyecto Integrador/Web/login corregido/ingresar.html",
+		"/C/Users/Hernan777/Documents/FIE 6to/Compiladores/programasJava/AnalizadorLexico.java",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/CRUD/css/estilos.css",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/CRUD/css/bootstrap.min.css",
+		"/C/Users/Hernan777/Documents/FIE 6to/Programacion web/JavaScript/otraForma.js",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/audioVideo.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/timing.html",
+		"/C/Users/Hernan777/Desktop/Desarrollo Web/Codigo/Javascript/fechas.html",
+		"/C/Users/Hernan777/Documents/FIE 6to/Proyecto Integrador/Web/registro/js/registo.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 202.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"objJson",
+			"Hola",
+			"}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jsonData"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/code/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Seti_UI/icons/Langs/Npm (JSON).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "curso.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
